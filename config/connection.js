@@ -1,3 +1,4 @@
+// From mini project
 const mongoose = require('mongoose');
 
 mongoose.connect(

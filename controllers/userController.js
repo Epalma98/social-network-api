@@ -1,3 +1,4 @@
+//Help from Alejandro (prof)
 const { User, Thoughts } = require('../models');
 
 const userController = {

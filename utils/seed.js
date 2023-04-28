@@ -1,3 +1,4 @@
+// Provided by Alejandro (Prof)
 // npm i --save-dev @faker-js/faker
 const { faker } = require("@faker-js/faker");
 const db = require("../config/connection");
